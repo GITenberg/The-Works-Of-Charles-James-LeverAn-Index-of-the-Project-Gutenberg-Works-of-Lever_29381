@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29381#The-Works-Of-Charles-James-LeverAn-Index-of-the-Project-Gutenberg-Works-of-Lever
 gutenberg_issued: '2009-07-11'
 gutenberg_type: Text
 identifiers:
