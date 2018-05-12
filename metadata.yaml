@@ -1,0 +1,37 @@
+_repo: The-Works-Of-Charles-James-LeverAn-Index-of-the-Project-Gutenberg-Works-of-Lever_29381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29381-h/images/bookcover2.jpg
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - Lorrequer, Harry
+    - O'Dowd, Cornelius
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Indexes'
+title: 'The Works Of Charles James Lever
+
+  An Index of the Project Gutenberg Works of Lever'
+url: http://www.gutenberg.org/ebooks/29381
